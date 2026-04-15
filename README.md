@@ -95,13 +95,7 @@ This analysis explored the Internflare dataset to better understand service perf
 Through data cleaning and exploratory data analysis, several important patterns were identified. The dataset revealed clear differences in service engagement and payment outcomes, highlighting areas where operational efficiency can be improved. The visualizations also helped uncover patterns in service usage and payment success rates.
 Overall, the analysis demonstrates how structured data exploration can provide actionable insights for decision-making. By understanding how users interact with services and how payments are processed, organizations can improve operational strategies and enhance overall performance.
 The project also demonstrates practical data analysis skills including data cleaning, exploratory data analysis, and visualization using Python.
-________________________________________
 
-## Installation
-Clone the repository
-git clone https://github.com/yourusername/internflare-data-analysis.git
-Install dependencies
-pip install -r requirements.txt
 ________________________________________
 
 ## Future Improvements
